@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Radostina Anastasova\\source\\repos\\AppiumCalculatorTest\\AppiumCalculatorTest\\AppiumCalculatorTests.csproj": {}
+    "D:\\ina_rd\\QA\\QA Authomation FrontEnd\\00. Projects\\AppiumCalculatorTests\\AppiumCalculatorTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Radostina Anastasova\\source\\repos\\AppiumCalculatorTest\\AppiumCalculatorTest\\AppiumCalculatorTests.csproj": {
+    "D:\\ina_rd\\QA\\QA Authomation FrontEnd\\00. Projects\\AppiumCalculatorTests\\AppiumCalculatorTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Radostina Anastasova\\source\\repos\\AppiumCalculatorTest\\AppiumCalculatorTest\\AppiumCalculatorTests.csproj",
+        "projectUniqueName": "D:\\ina_rd\\QA\\QA Authomation FrontEnd\\00. Projects\\AppiumCalculatorTests\\AppiumCalculatorTests.csproj",
         "projectName": "AppiumCalculatorTests",
-        "projectPath": "C:\\Users\\Radostina Anastasova\\source\\repos\\AppiumCalculatorTest\\AppiumCalculatorTest\\AppiumCalculatorTests.csproj",
-        "packagesPath": "C:\\Users\\Radostina Anastasova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Radostina Anastasova\\source\\repos\\AppiumCalculatorTest\\AppiumCalculatorTest\\obj\\",
+        "projectPath": "D:\\ina_rd\\QA\\QA Authomation FrontEnd\\00. Projects\\AppiumCalculatorTests\\AppiumCalculatorTests.csproj",
+        "packagesPath": "C:\\Users\\ina_r\\.nuget\\packages\\",
+        "outputPath": "D:\\ina_rd\\QA\\QA Authomation FrontEnd\\00. Projects\\AppiumCalculatorTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Radostina Anastasova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ina_r\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
